@@ -65,7 +65,8 @@
 - 关注于测试的执行而忽视测试的设计
 - 测试自动化是万能的
 - 测试是为了证明软件的正确性
-
+**软件测试方法分类**<br>
+![](https://github.com/yangxcc/SystemTest/blob/master/image/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB.png)
 ### 黑盒测试
 ### 白盒测试
 ### 单元测试
